@@ -7,8 +7,6 @@
 **Project Link:**
 [Google Colab - Medical Specialty Classification](https://colab.research.google.com/drive/1VzxOWtEsQzNJzob1K__tQze8TwKusQWe?usp=sharing)
 
-https://colab.research.google.com/drive/1VzxOWtEsQzNJzob1K__tQze8TwKusQWe?usp=sharing
-
 Use dataset: https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions
 
 ---
